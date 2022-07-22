@@ -1,5 +1,6 @@
 ## Curso de introdução a Git e Github
 
+
 - O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git. Bash é acrônico para "Bourne Again Shell". Shells são aplicativos terminais usados como interface em sistemas operacionais por meio de comandos gravados.
 
 - A função **SHA1** usa a função de hash criptográfica **SHA1** para converter uma string de comprimento variável em uma string de 40 caracteres que é uma representação de texto do valor hexadecimal de uma soma de verificação de 160 bits
@@ -7,6 +8,4 @@
 - Com "git init" se inicia um repositório.
 
 - Com "git add" se adiciona uma alteração no diretório ativo á área de staging.
-
-  
 
